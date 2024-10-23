@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ATMapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|e:\\atmapp\\atmapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|e:\\atmapp\\atmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\deposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\deposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|E:\\ATMapp\\atmapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79B9C41-7BBB-4065-B408-534AD9CA4475}|ATMapp\\ATMapp.csproj|solutionrelative:atmapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "account.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\account.cs",
+              "RelativeDocumentMoniker": "ATMapp\\account.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\account.cs*",
+              "RelativeToolTip": "ATMapp\\account.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:05:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\Program.cs",
+              "RelativeDocumentMoniker": "ATMapp\\Program.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\Program.cs",
+              "RelativeToolTip": "ATMapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:01:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ministatement.cs [Design]",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\ministatement.cs",
+              "RelativeDocumentMoniker": "ATMapp\\ministatement.cs",
+              "ToolTip": "G:\\ATMapp\\ATMapp\\ministatement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HOME.cs [Design]",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\HOME.cs",
+              "RelativeDocumentMoniker": "ATMapp\\HOME.cs",
+              "ToolTip": "G:\\ATMapp\\ATMapp\\HOME.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "withdraw.cs [Design]",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\withdraw.cs",
+              "RelativeDocumentMoniker": "ATMapp\\withdraw.cs",
+              "ToolTip": "G:\\ATMapp\\ATMapp\\withdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePin.cs [Design]",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\ChangePin.cs",
+              "RelativeDocumentMoniker": "ATMapp\\ChangePin.cs",
+              "ToolTip": "G:\\ATMapp\\ATMapp\\ChangePin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account.cs [Design]",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\account.cs",
+              "RelativeDocumentMoniker": "ATMapp\\account.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\account.cs [Design]*",
+              "RelativeToolTip": "ATMapp\\account.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:01:05.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "balance.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\balance.cs",
+              "RelativeDocumentMoniker": "ATMapp\\balance.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\balance.cs",
+              "RelativeToolTip": "ATMapp\\balance.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deposite.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\Deposite.cs",
+              "RelativeDocumentMoniker": "ATMapp\\Deposite.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\Deposite.cs",
+              "RelativeToolTip": "ATMapp\\Deposite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\login.cs",
+              "RelativeDocumentMoniker": "ATMapp\\login.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\login.cs",
+              "RelativeToolTip": "ATMapp\\login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "E:\\ATMapp\\ATMapp\\Splash.cs",
+              "RelativeDocumentMoniker": "ATMapp\\Splash.cs",
+              "ToolTip": "E:\\ATMapp\\ATMapp\\Splash.cs",
+              "RelativeToolTip": "ATMapp\\Splash.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T04:01:05.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
